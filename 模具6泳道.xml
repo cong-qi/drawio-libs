@@ -1,0 +1,30 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel style=\"default-style2\"&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;lt;div style=&amp;quot;font-size: 1px&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;\" 成本=\"0\" 持续时间=\"0\" 资源=\"0\" id=\"2\"&gt;&lt;mxCell style=\"verticalAlign=middle;align=center;overflow=width;vsdxID=5;fillColor=#ffffff;gradientColor=none;shape=stencil(tVJBDsIgEHwNRxpkY/Ve6z+IpS0RoVnQ1t8LUmO1aS/G2+zO7G4GhkDhWtFJwpnzaM+yV5VvCRwI58q0EpUPiEBJoKgtygbt1VSp7kRURnSxt7hhSHObPMt3cYqz+9hh7Fkfk1wrM5HvIQNYkws8BQ7n23HUb5N8eeGLp2JQjqL1witrPjgtsJE0nKK1Fs14KlGul7KbtFe8zK3/5GT5Jf/iJYD3n9ZK6xSJKf+dgdBK+YHyAQ==);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0.5,1,0],[0.5,0,0],[0,0.5,0],[1,0.5,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"96\" height=\"32\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 96,
+    "h": 32,
+    "title": "6-1",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel style=\"default-style2\"&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" style=\"vsdxID=5;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"96\" height=\"68\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"&amp;lt;div style=&amp;quot;font-size: 1px&amp;quot;&amp;gt;&amp;lt;p style=&amp;quot;text-align:center;margin-left:0;margin-right:0;margin-top:0px;margin-bottom:0px;text-indent:0;vertical-align:middle;direction:ltr;&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;/div&amp;gt;\" style=\"verticalAlign=middle;align=center;overflow=width;vsdxID=6;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.5,0],[1,0.5,0],[0.5,1,0],[0.5,0,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"19\" width=\"96\" height=\"48\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"&amp;lt;div style=&amp;quot;font-size: 1px&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;\" style=\"verticalAlign=middle;align=center;overflow=width;vsdxID=7;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.5,0],[1,0.5,0],[0.5,1,0],[0.5,0,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"96\" height=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 96,
+    "h": 68,
+    "title": "6-2",
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" style=\"vsdxID=5;fillColor=none;gradientColor=none;strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"96\" height=\"68\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"&amp;lt;div style=&amp;quot;font-size: 1px&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;\" style=\"verticalAlign=middle;align=center;overflow=width;vsdxID=6;fillColor=#ffffff;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.5,0],[1,0.5,0],[0.5,1,0],[0.5,0,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"96\" height=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"&amp;lt;div style=&amp;quot;font-size: 1px&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;\" style=\"verticalAlign=middle;align=center;overflow=width;vsdxID=7;fillColor=#ffffff;gradientColor=none;shape=stencil(nZLRDsIgDEW/pq+GlRh9n/M/loyNRoSFodO/F9JMHWYm29u99LTkFkCWg657BSiG4N1FjdQEDfIEiGS18hSiAlmBLFvnVefdzTbs+zqRSV3dPU14cJ9IHSie7ArB/syoIfuFTsVN8B90I5hdH8UnY0vG8Ire9aUFFLjbr4iV0zN2Pvl4WDP5h15OlyWLIn/teMQ/RVYv);strokeColor=#000000;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[[0,0.5,0],[1,0.5,0],[0.5,1,0],[0.5,0,0]];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"19\" width=\"96\" height=\"48\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 96,
+    "h": 68,
+    "aspect": "fixed",
+    "title": "6-3"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=#000000;align=center;verticalAlign=middle;spacingLeft=-1;spacingRight=-1;spacingTop=-1;spacingBottom=-1;fontFamily=仿宋;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=#ffffff;gradientColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"80\" height=\"48\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 80,
+    "h": 48,
+    "aspect": "fixed",
+    "title": "6-4"
+  }
+]</mxlibrary>
